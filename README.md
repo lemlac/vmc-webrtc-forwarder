@@ -1,2 +1,2 @@
-# vmc-bridge
-Tool that streams VMC to a server over the public internet (WAN)
+# VMC WebRTC Forwarder
+Tool that streams VMC to a server through WebRTC.

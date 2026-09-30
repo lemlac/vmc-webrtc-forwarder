@@ -1,0 +1,9 @@
+[package]
+name = "vmc_webrtc_forwarder"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = { version = "1.0", features = ["full"] }
+webrtc = "0.11"
+anyhow = "1.0"
